@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/dashboard/:slug",
+      "destination": "https://phantom-:slug.vercel.app"
+    }
+  ]
+}
